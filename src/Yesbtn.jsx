@@ -4,7 +4,7 @@ function Yesbtn() {
 //   const [msg, setMsg] = useState("");
   const handelclick = () => {
     //window.location.href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJFVvrV7v2pEdbtjY_kX2Ajt8WCYY3iGsN5g&s"
-    alert("I also love you yarr!")
+    alert("I ALSO LIKE YOU YAR!")
   };
   return (
     <div>
