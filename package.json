@@ -1,7 +1,7 @@
 {
   "homepage": "http://NischaySinghPanwar.github.io/TimePass",
   "name": "cant-say-no",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {

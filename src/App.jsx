@@ -1,9 +1,9 @@
-import { useState } from "react";
+// import { useState } from "react";
 import Nobtn from "./Nobtn";
 import "./App.css";
 import ScondNObtn from "./ScondNObtn";
 import Yesbtn from "./Yesbtn";
-import Spline from '@splinetool/react-spline';
+// import Spline from '@splinetool/react-spline';
 function App() {
 
   return (
